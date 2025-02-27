@@ -30,5 +30,5 @@ The dataset used is the [Pima Indians Diabetes Database](https://www.kaggle.com/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone [https://github.com/yourusername/](https://github.com/madusanakcs/Diabetes-Predication-Model.git
    cd diabetes-prediction
